@@ -1,0 +1,641 @@
+# kubrick theme pot file.
+# Copyright (C) 2008 WordPress
+# This file is distributed under the same license as the kubrick theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Theme Kubrick WP2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-11 13:06+0600\n"
+"PO-Revision-Date: 2008-12-14 00:16+0600\n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress\\main\\project-wp27rus\\hard\\default\n"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/404.php:5
+msgid "Error 404 - Not Found"
+msgstr "Ошибка 404 - Не найдено"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:9
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Архив рубрики &#8216;%s&#8217;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:11
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Записи с метками &#8216;%s&#8217;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:13
+#, php-format
+msgid "Archive for %s|Daily archive page"
+msgstr "Архив %s|Daily archive page"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:13
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:11
+msgid "F jS, Y"
+msgstr "j F Y"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:15
+#, php-format
+msgid "Archive for %s|Monthly archive page"
+msgstr "Архив за %s|Monthly archive page"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:15
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:27
+msgid "F, Y"
+msgstr "F Y"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:17
+#, php-format
+msgid "Archive for %s|Yearly archive page"
+msgstr "Архив за %s год|Yearly archive page"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:17
+msgid "Y"
+msgstr "Y"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:19
+msgid "Author Archive"
+msgstr "Архив автора"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:21
+msgid "Blog Archives"
+msgstr "Архивы блога"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:26
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:46
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:23
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:10
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:27
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие записи"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:27
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:47
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:24
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:11
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:28
+msgid "Newer Entries &raquo;"
+msgstr "Следующие записи &raquo;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:32
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:10
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:18
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:33
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:25
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:24
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:27
+msgid "l, F jS, Y"
+msgstr "l, j F Y"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:39
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:17
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:21
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:19
+msgid "Tags:"
+msgstr "Метки: "
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:39
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:17
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:21
+#, php-format
+msgid "Posted in %s"
+msgstr "Написано в %s"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:39
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:17
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:21
+msgid "Edit"
+msgstr "Редактировать"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:39
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:17
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:21
+msgid "No Comments &#187;"
+msgstr "Нет комментариев &#187;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:39
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:17
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:21
+msgid "1 Comment &#187;"
+msgstr "1 комментарий &#187;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:39
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:17
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:21
+msgid "% Comments &#187;"
+msgstr "% комментариев &#187;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:39
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:17
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:21
+msgid "Comments Closed"
+msgstr "Комментарии закрыты"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:51
+#, php-format
+msgid "Sorry, but there aren't any posts in the %s category yet."
+msgstr "Извините, в рубрике %s еще нет никаких записей."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:53
+msgid "Sorry, but there aren't any posts with this date."
+msgstr "Извините, но нет никаких записей за эту дату."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:56
+#, php-format
+msgid "Sorry, but there aren't any posts by %s yet."
+msgstr "Извините, автор %s еще не сделал никаких записей."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archive.php:58
+msgid "No posts found."
+msgstr "Записи отсутствуют."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archives.php:13
+msgid "Archives by Month:"
+msgstr "Архивы по месяцам:"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/archives.php:18
+msgid "Archives by Subject:"
+msgstr "Архивы по теме:"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:6
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s - Комментарии на %2$s"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:26
+msgid "Comments"
+msgstr "Комментарии"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:28
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> лента комментариев к этой записи."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:31
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr> для TrackBack-а к данной записи: <em>%s</em>"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:49
+msgid "Comment"
+msgstr "Комментарий"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:49
+msgid "Trackback"
+msgstr "Trackback"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:49
+msgid "Pingback"
+msgstr "Уведомление"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:49
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr "от %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:55
+msgid "No comments yet."
+msgstr "Еще нет комментариев."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:59
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:60
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "Строки и параграфы прерываются автоматически, адрес e-mail никогда не отображается, вы можете использовать следующие разрешенные тэги <acronym title=\"Hypertext Markup Language\">HTML</acronym>: <code>%s</code>"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:64
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "Вы вошли как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Выйти из данного аккаунта\">Выйти &raquo;</a>"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:68
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:62
+msgid "Name"
+msgstr "Имя"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:73
+msgid "E-mail"
+msgstr "E-mail"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:78
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:83
+msgid "Your Comment"
+msgstr "Ваш комментарий"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:91
+msgid "Say It!"
+msgstr "Добавить комментарий"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:96
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Извините, обсуждение на данный момент закрыто."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:101
+msgid "Close this window."
+msgstr "Закрыть это окно."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:107
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:58
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:58
+msgid "Sorry, no posts matched your criteria."
+msgstr "Извините, нет записей, удовлетворяющих вашим условиям."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments-popup.php:111
+#, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "Работает на <a href=\"%s\" title=\"Работает на WordPress\"><strong>WordPress</strong></a>"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта запись защищена паролем. Введите пароль для просмотра комментариев."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:15
+msgid "No Responses"
+msgstr "Нет комментариев"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:15
+msgid "One Response"
+msgstr "1 комментарий"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:15
+msgid "% Responses"
+msgstr "% комментариев"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:15
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "на &#8220;%s&#8221;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:33
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:43
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:43
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Оставить комментарий на %s"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:50
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны <a href=\"%s\">войти</a> чтобы оставить комментарий."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:57
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Вы вошли как <a href=\"%1$s\">%2$s</a>."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:57
+msgid "Log out of this account"
+msgstr "Выйти из текущего аккаунта"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:57
+msgid "Log out &raquo;"
+msgstr "Выйти &raquo;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:62
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:65
+msgid "(required)"
+msgstr "(обязательно)"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:65
+msgid "Mail (will not be published)"
+msgstr "E-mail (не публикуется)"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:68
+msgid "Website"
+msgstr "Сайт"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:72
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Вы можете использовать эти тэги: <code>%s</code>"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/comments.php:76
+msgid "Submit Comment"
+msgstr "Отправить комментарий"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/footer.php:6
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s работает на %2$s. Локализация <a href=\"http://lecactus.ru\">Lecactus.ru</a>"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/footer.php:8
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$s и %2$s."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/footer.php:8
+msgid "Entries (RSS)"
+msgstr "Записи (RSS)"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/footer.php:8
+msgid "Comments (RSS)"
+msgstr "Комментарии (RSS)"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/footer.php:9
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d запросов. %s секунд."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:149
+msgid "Customize Header"
+msgstr "Настроить &laquo;шапку&raquo;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:149
+msgid "Header Image and Color"
+msgstr "Изображение и цвета &laquo;шапки&raquo;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:162
+msgid "Close Color Picker"
+msgstr "Закрыть окно выбора цвета"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:359
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:375
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:382
+msgid "Save"
+msgstr "Сохранить"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:376
+msgid "Font Color:"
+msgstr "Цвет шрифта:"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:376
+#, php-format
+msgid "Any CSS color (%s or %s or %s)"
+msgstr "Любой цвет CSS (%s, %s или %s)"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:377
+msgid "Upper Color:"
+msgstr "Верхний цвет:"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:377
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:378
+#, php-format
+msgid "HEX only (%s or %s)"
+msgstr "Только HEX (%s или %s)"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:378
+msgid "Lower Color:"
+msgstr "Нижний цвет:"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:380
+msgid "Toggle Text"
+msgstr "Показать/скрыть текст"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:381
+msgid "Use Defaults"
+msgstr "По умолчанию"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:390
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:391
+msgid "Upper Color"
+msgstr "Верхний цвет"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:392
+msgid "Lower Color"
+msgstr "Нижний цвет"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:393
+msgid "Revert"
+msgstr "Вернуть"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:394
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:401
+msgid "Update Header &raquo;"
+msgstr "Обновить &laquo;шапку&raquo;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:407
+msgid "Font Color (CSS):"
+msgstr "Цвет шрифта (CSS):"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:408
+msgid "Upper Color (HEX):"
+msgstr "Верхний цвет (HEX):"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:409
+msgid "Lower Color (HEX):"
+msgstr "Нижний цвет (HEX):"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:410
+msgid "Select Default Colors"
+msgstr "Выбрать цвета по умолчанию"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/functions.php:411
+msgid "Toggle Text Display"
+msgstr "Показать/скрыть текст"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/header.php:10
+#, php-format
+msgid "%s RSS Feed"
+msgstr "%s RSS лента"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/header.php:11
+#, php-format
+msgid "%s Atom Feed"
+msgstr "%s ATOM лента"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:13
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:14
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "Читать запись полностью &raquo;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:15
+#: X:\web\wordpress\main\project-wp27rus\hard\default/page.php:11
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:18
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:25
+#, php-format
+msgid "This entry was posted on %1$s at %2$s and is filed under %3$s."
+msgstr "Эта запись была создана в %1$s в %2$s и находится в рубриках %3$s."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:27
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:28
+#, php-format
+msgid "You can follow any responses to this entry through the <a href='%s'>RSS 2.0</a> feed."
+msgstr "Вы можете следить за комментариями к этой записи через ленту <a href='%s'>RSS 2.0</a>."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:31
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:32
+#, php-format
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Вы можете <a href=\"#respond\">оставить отзыв</a>, или <a href=\"%s\" rel=\"trackback\">trackback</a> с вашего собственного сайта."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:35
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:36
+#, php-format
+msgid "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Обсуждение в настоящее время закрыто, но вы можете послать <a href=\"%s\" rel=\"trackback\">trackback</a> с вашего собственного сайта."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:39
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:40
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Вы можете пролистать запись до конца и оставить отзыв. Уведомления в настоящее время не разрешены."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:43
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:44
+msgid "Both comments and pings are currently closed."
+msgstr "Комментарии и уведомления в настоящее время закрыты."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/image.php:45
+#: X:\web\wordpress\main\project-wp27rus\hard\default/page.php:16
+msgid "Edit this entry."
+msgstr "Редактировать эту запись."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:29
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/index.php:30
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Извините, но вы ищете что то, чего здесь нет."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/links.php:11
+msgid "Links:"
+msgstr "Ссылки:"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/page.php:9
+msgid "Read the rest of this page &raquo;"
+msgstr "Читать запись полностью &raquo;"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:7
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/search.php:33
+msgid "No posts found. Try a different search?"
+msgstr "Записи не найдены. Попробуем поискать еще?"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/searchform.php:2
+msgid "Search for:"
+msgstr "Поиск: "
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/searchform.php:4
+msgid "Search"
+msgstr "Найти"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:10
+msgid "Author"
+msgstr "Автор"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:21
+#, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "Сейчас Вы просматриваете архивы блога по рубрике %s."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:24
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+msgstr "Сейчас Вы просматриваете <a href=\"%1$s/\">%2$s</a> архивы блога за %3$s."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:27
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+msgstr "Сейчас Вы просматриваете <a href=\"%1$s/\">%2$s</a> архивы блога за %3$s."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:30
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+msgstr "Сейчас Вы просматриваете <a href=\"%1$s/\">%2$s</a> архивы блога за %3$s год."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:33
+#, php-format
+msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "Вы искали в архивах блога  <a href=\"%1$s/\">%2$s</a> по запросу <strong>&#8216;%3$s&#8217;</strong>. Если вы не нашли требуемог ов результатах поиска, воспользуйтесь следующими ссылками."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:36
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgstr "Сейчас Вы просматриваете архивы блога <a href=\"%1$s/\">%2$s</a>."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:42
+msgid "Pages"
+msgstr "Страницы"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:44
+msgid "Archives"
+msgstr "Архивы"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:50
+msgid "Categories"
+msgstr "Рубрики"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:55
+msgid "Meta"
+msgstr "Управление"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:59
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr "Эта страница соответствует стандарту XHTML 1.0 Transitional"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:59
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr "Корректный <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:60
+msgid "XHTML Friends Network"
+msgstr "XHTML дружественные сети"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:60
+msgid "XFN"
+msgstr "XFN"
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/sidebar.php:61
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Сайт работает на WordPress &#8212; современной системе персональных публикаций."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:27
+#, php-format
+msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+msgstr "Запись создана: %1$s %2$s в %3$s и находится в рубриках %4$s."
+
+#: X:\web\wordpress\main\project-wp27rus\hard\default/single.php:46
+msgid "Edit this entry"
+msgstr "Редактировать эту запись"
+
+#~ msgid "<cite>%s</cite> Says:"
+#~ msgstr "<cite>%s</cite> пишет:"
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Ваш комментарий ожидает одобрения."
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s в %2$s"
+#~ msgid "edit"
+#~ msgstr "редактировать"
+#~ msgid "&raquo; Blog Archive"
+#~ msgstr "&raquo; Архив блога"
+

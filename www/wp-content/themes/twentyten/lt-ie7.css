@@ -1,0 +1,7 @@
+/* Use this stylesheet to fix problems with any IE browser below IE7 */
+.thecomment, .authorcomment {
+	word-wrap: break-word;
+}
+#commentform {
+	padding: 0px 0px 0px 1px;
+} /* no idea why this bug exists, but this fixes it */
